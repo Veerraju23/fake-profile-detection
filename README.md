@@ -1,0 +1,2 @@
+Developed a Fake Profile Detection system using Python and machine learning to classify social media accounts as real or fake. The model analyzed attributes such as bio length, follower/following count, number of posts, and profile picture status. Implemented a Random Forest classifier that achieved high accuracy, and evaluated the system using a confusion matrix and classification report to support safer online environments.
+
